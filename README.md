@@ -31,8 +31,8 @@
 
 
 ### instruções básicas de uso do notebook
-    Para utilização deste notebook, basta efetuar o get e compilar com Python 3+:
-    As funções recebem a lista do carrinho contendo (valor, percentual)
+Para utilização deste notebook, basta efetuar o get e compilar com Python 3+:
+As funções recebem a lista do carrinho contendo (valor, percentual)
 
 ```
     shop_cart = [(500, 10), (800, 25), (260, 38)]
