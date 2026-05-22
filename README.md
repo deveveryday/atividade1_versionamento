@@ -25,9 +25,9 @@
 1. Para calcular porcentagem:
         valor * valor divido por cem (100)
 2. Para fazer um aumento de valor:
-        valor + (valor * valor divido por cem (100))
+        valor + valor * valor divido por cem (100)
 3. Para fazer o desconto:
-        valor -(valor * valor divido por cem (100))
+        valor - valor * valor divido por cem (100)
 
 
 ### instruções básicas de uso do notebook
